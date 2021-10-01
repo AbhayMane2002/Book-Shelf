@@ -77,5 +77,5 @@
 "Born": "8 April 1947",
 "Status": "Alive age 74",
 "Book Name": "Rich Dad PoorDad", 
-"Link": "https://www.amazon.in/dp/1612680194/ref=cm_sw_r_apan_glt_fabc_RTA84MFCVBSD0YFHFKHF,
+"Link": "https://www.amazon.in/dp/1612680194/ref=cm_sw_r_apan_glt_fabc_RTA84MFCVBSD0YFHFKHF",
 
